@@ -1,0 +1,12 @@
+This is a free browser test data generator tool that creates random text files. 
+You can set the desired file size (in bytes) as well as number of files to generate. 
+This online utility fills a text file with random characters until it reaches a certain size. 
+We can select number of files to generate from the above option. 
+Once number of files is selected select the desired size of files to generate. 
+For your help files download is made very easy, just in one click file will be downloaded in your downloads folder.
+
+Testing Engineers may need to upload any file for testing purposes. 
+It usually takes time to prepare different fake files sizes in your system, or wasting your time locating files online with the right size. 
+I can understand how much time it can take to create dummy files or to find random data file creator, that is why I designed our own dummy file creator to save your time. 
+So now you can easily select which file format.
+If you are creating a Microsoft Word document, template or mockup and you want to create placeholder text, you can generate random text using the built-in RAND function or LOREM function (which generates Latin or Lorem ipsum text).
